@@ -1,6 +1,6 @@
 {
   "name": "routefilter.emb",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "路由过滤中间件 ，注入在 request 一组 过滤器。可实现请求过滤器，和在过滤器中实现请求和返回，实现RMVC中把请求脱离出去",
   "main": "index.js",
   "scripts": {
