@@ -1,20 +1,20 @@
 {
   "name": "routefilter.emb",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "路由过滤中间件 ，注入在 request 一组 过滤器。可实现请求过滤器，和在过滤器中实现请求和返回，实现RMVC中把请求脱离出去",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/embaobao/route-filter.emb-packages.git"
   },
   "keywords": [
-    "RMVC",
+    "Executor",
     "filter",
     "router",
+    "route",
     "routefilter",
-    "FRMVC"
+    "ARMVC"
   ],
   "author": "embaobao.cn|吃火星的宝宝",
   "license": "MIT",
